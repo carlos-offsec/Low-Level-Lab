@@ -1,4 +1,4 @@
-# 📄 Hand-Written PDF: Hello World
+# 📄 PDF Manual: Hello World
 
 Este projeto é uma exploração prática da estrutura interna do formato de arquivo **PDF (Portable Document Format)**. Em vez de utilizar um software de editoração ou biblioteca de programação, este arquivo foi escrito manualmente caractere por caractere em um editor de texto simples.
 
