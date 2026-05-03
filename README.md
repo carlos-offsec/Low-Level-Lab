@@ -1,4 +1,4 @@
-# 🖥️ Assembly x86 — Laboratório de Estudos
+# 🖥️ LLL (Low Level Lab) — Laboratório de Estudos
 
 Repositório de exercícios em Assembly x86 e afins. 
 Os exercícios estão organizados em pastas, em ordem progressiva de complexidade.
