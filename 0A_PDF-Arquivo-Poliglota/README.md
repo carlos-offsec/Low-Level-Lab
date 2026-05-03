@@ -24,7 +24,7 @@ O objetivo é demonstrar técnicas de manipulação de formatos de arquivo e pro
 
 - `pdf-bootloader.asm`: Código fonte principal. Contém a lógica de boot, o carregador do segundo estágio e o decodificador RLE.
 - `pdf-bootloader.bin`: O binário compilado.
-- `HelloWorld.pdf`: O resultado final poliglota (binário renomeado ou processado).
+- `HelloWorld.pdf`: O resultado final poliglota.
 
 ## ⚙️ Como Compilar e Executar
 
